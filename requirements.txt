@@ -1,0 +1,22 @@
+librerias:
+
+discord.py
+flask
+
+https://www.nationalgeographic.es/medio-ambiente/que-es-el-calentamiento-global  - national geographic
+
+https://youtu.be/LwRTw_7NNJs - nasa
+
+https://ciencia.nasa.gov/cambio-climatico/preguntas-frecuentes/cual-es-la-diferencia-entre-el-cambio-climatico-y-el-calentamiento-global/  - onu
+
+https://www.un.org/es/climatechange/what-is-climate-change - onu
+
+https://youtu.be/NvNjz1dnwqQ - onu
+
+https://youtu.be/pLxKmRc3RoA - onu
+
+https://www.un.org/es/global-issues/climate-change - onu
+
+https://www.un.org/es/climatechange - onu
+
+https://www.un.org/es/climatechange/science/causes-effects-climate-change - onu
